@@ -1,1 +1,2 @@
 # Pattern-Recognition
+The following machine learning algorithms : Minimum Distance to Class Mean Classifier, K-Nearest Neighbors, K-Means Clustering and Perceptron, will be found in this repository. The models are designed in python using google colab. Datasets used for training and testing the models are also provided (text files). Short reports for easy understanding, on each model are also added.
